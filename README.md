@@ -15,8 +15,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-09 - File I/O
 - Chapter-10 OOPS in  python 
 - Chapter-11 Inheritance in OOPS
-- Chapter-12 Advanced python - 1
-- Chapter-13 Advanced python - 2
+- Chapter-12 Advanced python - part 1
+- Chapter-13 Advanced python - part 2
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
@@ -37,6 +37,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - [x] project 1 - snake water gun game
 - [x] ch-09 Concepts
 - [ ] ch-09 Practice set
+- [ ] project 2 - calculator
 - [ ] ch-10 Concepts
 - [ ] ch-10 Practice set
 - [ ] ch-11 Concepts
