@@ -15,8 +15,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-09 - File I/O
 - Chapter-10 OOPS in  python 
 - Chapter-11 Inheritance in OOPS
-- Chapter-12 Advanced python - part 1
-- Chapter-13 Advanced python - part 2
+- Chapter-12 Advanced python - 1
+- Chapter-13 Advanced python - 2
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
@@ -49,6 +49,8 @@ This repository is a record of my Python learning journey. Each chapter's concep
 ## 🛠️ Tech
 - Python 3
 - VS Code
+- Git
+- Github
 ## LEARNING APPROACH
 - Handbook Revision and Review of concepts
 - Regular commits on github
