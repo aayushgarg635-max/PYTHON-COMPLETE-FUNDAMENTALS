@@ -17,6 +17,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Chapter-11 Inheritance in OOPS
 - Chapter-12 Advanced python - 1
 - Chapter-13 Advanced python - 2
+- Quick Quizzes - a quick revision of imp points and concepts
 ## 🚀 Progress
 - [x] Ch-01 Concepts
 - [x] Ch-01 Practice Set
