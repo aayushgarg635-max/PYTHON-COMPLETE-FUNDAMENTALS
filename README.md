@@ -62,6 +62,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - snake water gun game
 - Perfect guess
 - Calculator
+- TO DO app
 - Robo speaker
 - PDF merger
 - Jarvis chatbot
