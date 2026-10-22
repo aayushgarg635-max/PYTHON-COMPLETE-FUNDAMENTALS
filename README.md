@@ -58,7 +58,7 @@ This repository is a record of my Python learning journey. Each chapter's concep
 - Focusing on logic building
 - Revising and rebuilding concepts daily
 - Currently not using any AI majorly  to build strong core concepts in logicbuilding and programming
-# Mini projects i will be building after completion of this course :
+# Mini projects i will be building with alignment with this course :
 - snake water gun game
 - Perfect guess
 - Calculator
